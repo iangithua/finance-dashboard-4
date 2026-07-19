@@ -89,7 +89,7 @@ Example:
 
 ```csv
 keyword,category,group,ignore,confidence
-Roman Bauer,Rent,Needs,false,high
+Ian Githua,Rent,Needs,false,high
 LemFi,Money to Kenya,Support,false,high
 Pocket,Internal Transfer,Internal,true,high
 ```
@@ -174,8 +174,8 @@ Workflow:
 Example:
 
 ```text
-Description: Roman Bauer Passau
-Keyword: Roman Bauer
+Description: Ian Githua Passau
+Keyword: Ian Githua
 Category: Rent
 Group: Needs
 Ignore: false
