@@ -1,0 +1,22 @@
+keyword,category,group,ignore,confidence
+Roman Bauer,Rent,Needs,false,high
+LemFi,Money to Kenya,Support,false,high
+Klarna,Shopping Installments,Debt/Shopping,false,high
+Pocket,Internal Transfer,Internal,true,high
+Flexible Cash Funds,Internal Transfer,Internal,true,high
+REWE,Groceries,Needs,false,medium
+Lidl,Groceries,Needs,false,medium
+Aldi,Groceries,Needs,false,medium
+EDEKA,Groceries,Needs,false,medium
+Netto,Groceries,Needs,false,medium
+DM,Household/Toiletries,Needs,false,medium
+Rossmann,Household/Toiletries,Needs,false,medium
+Amazon,Shopping,Wants,false,medium
+McDonald's,Dining,Wants,false,medium
+Burger,Dining,Wants,false,medium
+Pizza,Dining,Wants,false,medium
+Subway,Dining,Wants,false,medium
+DB,Transport,Needs,false,medium
+Deutsche Bahn,Transport,Needs,false,medium
+Uber,Transport,Wants,false,medium
+PayPal,Online Payment,Review,false,low

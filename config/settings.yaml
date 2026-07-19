@@ -1,0 +1,22 @@
+app:
+  name: finance-dashboard
+  currency: EUR
+
+paths:
+  statements_dir: input/statements
+  rules_file: input/rules/classification_rules.csv
+  goals_file: input/goals/goals.csv
+  database_file: database/finance.db
+  output_excel_dir: output/excel
+  output_csv_dir: output/csv
+  output_charts_dir: output/charts
+  output_reports_dir: output/monthly_reports
+
+classification:
+  default_category: Unclassified
+  default_group: Review
+  ignore_internal_transfers: true
+
+reports:
+  small_purchase_threshold: 20
+  top_transactions_limit: 30

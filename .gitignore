@@ -1,0 +1,17 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local finance data and generated artifacts
+input/statements/*.csv
+!input/statements/sample_statement.csv
+database/
+output/
+
+# Local tooling and OS files
+.DS_Store
+.idea/
+.vscode/
